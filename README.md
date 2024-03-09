@@ -13,6 +13,16 @@
 | **Databases**                                   | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | **OS**                                          | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
 
+<!--   GitHub stats -->
+### 📈 GitHub Activity Stats:
+ ![Sonam's github stats](https://github-readme-stats.vercel.app/api?username=sonamguptacs&show_icons=true&theme=radical&include_all_commits=true) 
+ 
+ ![Sonam's github stats](https://github-readme-stats.vercel.app/api?username=sonamguptacs&show_icons=true&theme=transparent) 
+ 
+ ![Sonams's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sonamguptacs&theme=radical&layout=compact) 
+
+ [![Sonam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sonamguptacs&theme=react-dark&hide_border=true)](https://github.com/sonamguptacs/github-readme-activity-graph)
+ 
 **📫 How to Reach me:**
 <p>
 <a href="https://www.linkedin.com/in/sonamguptacs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp&nbsp
