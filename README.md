@@ -15,18 +15,19 @@
 
 <!--   GitHub stats -->
 ### 📈 GitHub Activity Stats:
- ![Sonam's github stats](https://github-readme-stats.vercel.app/api?username=sonamguptacs&show_icons=true&theme=radical&include_all_commits=true) 
- 
- ![Sonam's github stats](https://github-readme-stats.vercel.app/api?username=sonamguptacs&show_icons=true&theme=transparent) 
  
  ![Sonams's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sonamguptacs&theme=radical&layout=compact) 
 
  [![Sonam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sonamguptacs&theme=react-dark&hide_border=true)](https://github.com/sonamguptacs/github-readme-activity-graph)
  
-**📫 How to Reach me:**
+**📫 Other Profile links:**
 <p>
 <a href="https://www.linkedin.com/in/sonamguptacs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp&nbsp
-<a href="https://stackoverflow.com/users/16393002/sonam-gupta"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+
+<a href="https://stackoverflow.com/users/16393002/sonam-gupta" target="_blank">
+<img alt="StackOverflow"
+src="https://stackoverflow-badge.vercel.app/?userID=16393002" height="100px"/>
+</a>
  </p>
 
 <div align="center">
