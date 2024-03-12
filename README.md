@@ -26,20 +26,29 @@
 
 <a href="https://stackoverflow.com/users/16393002/sonam-gupta" target="_blank">
 <img alt="StackOverflow"
-src="https://stackoverflow-badge.vercel.app/?userID=16393002" height="100px"/>
+src="https://stackoverflow-badge.vercel.app/?userID=16393002" height="30px"/>
 </a>
  </p>
 
-<div align="center">
- Trophy:<a href="https://www.hackerrank.com/profile/sonamcs3092">Hackerrank</a> Profile Trophy
-</div>
+
+**:1st_place_medal:Badges**
 
 <div align="center"> 
 
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=6EF748364276BD5B56EAF8261BD3DB1F39B62555292C20B1809BB4746DF461CF"><img src="https://brm-workforce.oracle.com/pdf/certview/images/Oracle_Java_SE_11_Developer.png" alt="Java SE 11 Developer" width="20%"/></a> 
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=EC2F2642D88CCA1A3AEF1C3BB1C08A159E4498A388B04164C8221128A4BFA8E1"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI23AIFCA.png" alt="OCI AI Foundation" width="40%"/></a>
+
+</div>
+
+**:trophy: <a href="https://www.hackerrank.com/profile/sonamcs3092">Hackerrank</a> Profile Trophy**
+
+<div align="center"> 
+
+<a href="https://www.hackerrank.com/profile/sonamcs3092">
 <img src="https://media.licdn.com/dms/image/C4D34AQERDDHGs_t9gQ/ugc-proxy-shrink_800/0/1604097206709?e=2147483647&v=beta&t=n2Z0VywrP_DDk4L4pq7l_D13lQcSl1ilfNuZDM30_Rg" alt="Gold Badge" width="30%"/> 
 <img src="https://media.licdn.com/dms/image/C4E34AQEuluEWv05z3Q/ugc-proxy-shrink_800/0/1603422906349?e=2147483647&v=beta&t=qARUwyCdKOBVcBBKic29wNb4YWChlXFh16ZcsK8Li1A" alt="Silver Badge" width="30%"/>
 <img src="https://media.licdn.com/dms/image/sync/D4D27AQF5w_tvL2l8Eg/articleshare-shrink_800/0/1709615424514?e=1710626400&v=beta&t=TMqNxbP24g5lOR-FMO1Ma2X7GCY3-KQFC9O7ERvWLHU" alt="silver badge" width="30%"/>
-
+</a>
 </div>
 
 
