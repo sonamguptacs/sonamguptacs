@@ -47,7 +47,6 @@ src="https://stackoverflow-badge.vercel.app/?userID=16393002" height="30px"/>
 <a href="https://www.hackerrank.com/profile/sonamcs3092">
 <img src="https://media.licdn.com/dms/image/C4D34AQERDDHGs_t9gQ/ugc-proxy-shrink_800/0/1604097206709?e=2147483647&v=beta&t=n2Z0VywrP_DDk4L4pq7l_D13lQcSl1ilfNuZDM30_Rg" alt="Gold Badge" width="30%"/> 
 <img src="https://media.licdn.com/dms/image/C4E34AQEuluEWv05z3Q/ugc-proxy-shrink_800/0/1603422906349?e=2147483647&v=beta&t=qARUwyCdKOBVcBBKic29wNb4YWChlXFh16ZcsK8Li1A" alt="Silver Badge" width="30%"/>
-<img src="https://media.licdn.com/dms/image/sync/D4D27AQF5w_tvL2l8Eg/articleshare-shrink_800/0/1709615424514?e=1710626400&v=beta&t=TMqNxbP24g5lOR-FMO1Ma2X7GCY3-KQFC9O7ERvWLHU" alt="silver badge" width="30%"/>
 </a>
 </div>
 
