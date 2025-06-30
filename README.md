@@ -1,5 +1,5 @@
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I+am+Sonam;Welcome+to+My+Profile!;I+have+over+3+years+of+developer+experience;Always+learning+new+things+;I+am+a+Passionate+Frontend+Developer;Problem+Solver;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I+am+Sonam;Welcome+to+My+Profile!;I+have+over+4+years+of+developer+experience;Always+learning+new+things+;I+am+a+Passionate+Frontend+Developer;Problem+Solver;Tech+Enthusiast)](https://git.io/typing-svg)
 
 
 <!--   my-skils -->
